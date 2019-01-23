@@ -17,7 +17,7 @@ NS_ASSUME_NONNULL_BEGIN
 /**
  *  用于设置单个按钮不需要被hook
  */
-@property (nonatomic, assign) BOOL isIgnore;
+//@property (nonatomic, assign) BOOL isIgnore;
 
 /// 实例化 UIButton
 ///

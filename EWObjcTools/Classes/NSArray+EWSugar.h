@@ -65,7 +65,7 @@ NS_ASSUME_NONNULL_BEGIN
 /**
  判断一个索引值是否在范围内
  */
-- (BOOL)ew_containsIndex:(NSUInteger)index;
+//- (BOOL)ew_containsIndex:(NSUInteger)index;
 
 @end
 
@@ -150,7 +150,7 @@ NS_ASSUME_NONNULL_BEGIN
 /**
  判断一个索引值是否在范围内
  */
-- (BOOL)ew_containsIndex:(NSUInteger)index;
+//- (BOOL)ew_containsIndex:(NSUInteger)index;
 
 
 /**
