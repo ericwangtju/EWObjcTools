@@ -1,0 +1,16 @@
+PODS:
+  - EWObjcTools (0.1.0)
+
+DEPENDENCIES:
+  - EWObjcTools (from `../`)
+
+EXTERNAL SOURCES:
+  EWObjcTools:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  EWObjcTools: 2df8d463cf0b67c3109de8480c8c7ce245dff2d6
+
+PODFILE CHECKSUM: cdceb591e4816da262e780a6a275236838155641
+
+COCOAPODS: 1.5.3

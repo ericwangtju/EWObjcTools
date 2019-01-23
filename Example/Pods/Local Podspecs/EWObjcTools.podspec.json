@@ -1,0 +1,22 @@
+{
+  "name": "EWObjcTools",
+  "version": "0.1.0",
+  "summary": "A short description of EWObjcTools.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/ericwangtju/EWObjcTools",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "ericwangtju": "710035555@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/ericwangtju/EWObjcTools.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "EWObjcTools/Classes/**/*"
+}

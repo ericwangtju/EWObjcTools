@@ -1,0 +1,6 @@
+framework module EWObjcTools {
+  umbrella header "EWObjcTools-umbrella.h"
+
+  export *
+  module * { export * }
+}
